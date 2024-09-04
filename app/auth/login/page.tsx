@@ -3,7 +3,7 @@ import React from 'react'
 export default function page() {
   return (
     <div>
-      page txt !
+      Trang đang nhập !
     </div>
   )
 }
